@@ -4,7 +4,7 @@ The following changes have been made to the provided code in order to meet the a
 
 ## Changes made
 1. Inserted Horieseon Main Page into title to display in browser tab.
-2. Moved footer into it's own section and applied class to footer section instead of <div>
+2. Moved footer into it's own section and applied class to footer section instead of body
 3. Eliminated redundant class specificity.
 4. Changed non-semantic elements to semantic HTML elements.
 
